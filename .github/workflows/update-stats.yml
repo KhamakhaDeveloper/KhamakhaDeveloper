@@ -1,6 +1,8 @@
 name: Update stats
 
 on:
+  repository_dispatch:
+    types: do-something
   schedule:
     # Runs at 12am UTC
     - cron: '*/2 * * * *'
