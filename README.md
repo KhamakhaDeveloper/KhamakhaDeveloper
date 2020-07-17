@@ -9,6 +9,9 @@ I'm a Mobile Engineer at [Deloitte](https://www2.deloitte.com/global/en/pages/te
 - 📝  Blog: [Swifstor](https://swifstor.com)
 - ⚡  Fun fact: I am fun when someone irritates me :D
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 **felangel/felangel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
