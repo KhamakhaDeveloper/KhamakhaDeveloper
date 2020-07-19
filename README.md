@@ -11,4 +11,8 @@ I'm a Mobile Engineer at [Deloitte](https://www2.deloitte.com/global/en/pages/te
 
 📊 **I spent my time this week on**
 <!--START_SECTION:waka-->
+```text
+Sketch Drawing23 mins             █████████████████████████   100.00 % 
+Other       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+```
 <!--END_SECTION:waka-->
