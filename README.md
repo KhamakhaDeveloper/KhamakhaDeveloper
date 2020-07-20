@@ -16,7 +16,7 @@ I'm a Mobile Engineer at [Deloitte](https://www2.deloitte.com/global/en/pages/te
 - 🧑‍💻  I’m looking to collaborate on open source projects
 - 💬  Ask me about [iOS Development](https://developer.apple.com/documentation/) and [Sketch](https://www.sketch.com/),   [here➳](https://github.com/KhamkhaDeveloper/KhamkhaDeveloper/issues)
 - 📝  Blog: [Swifstor](https://swifstor.com)
-- ⚡  Fun fact: I am fun when someone irritates me :D
+- ⚡  Fun fact: I am no fun when I am sober 😂
 
 📊 **I spent my time this weekend on**
 <!--START_SECTION:waka-->
