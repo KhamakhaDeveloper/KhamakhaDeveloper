@@ -9,7 +9,7 @@ I'm a Mobile Engineer at [Deloitte](https://www2.deloitte.com/global/en/pages/te
 - 📝  Blog: [Swifstor](https://swifstor.com)
 - ⚡  Fun fact: I am fun when someone irritates me :D
 
-📊 **I spent my time this week on**
+📊 **I spent my time this weekend on**
 <!--START_SECTION:waka-->
 ```text
 Sketch Drawing23 mins             █████████████████████████   100.00 % 
