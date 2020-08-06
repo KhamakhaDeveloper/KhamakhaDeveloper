@@ -21,7 +21,7 @@ I'm a Mobile Engineer at [Deloitte](https://www2.deloitte.com/global/en/pages/te
 📊 **I spent my time this weekend on**
 <!--START_SECTION:waka-->
 ```text
-Sketch Drawing   1 hr 47 mins    ██████████████░░░░░░░░░░░   57.67 % 
-Swift            1 hr 18 mins    ██████████░░░░░░░░░░░░░░░   42.33 %
+Swift            2 hrs 44 mins   ███████████████░░░░░░░░░░   60.47 % 
+Sketch Drawing   1 hr 47 mins    ██████████░░░░░░░░░░░░░░░   39.53 %
 ```
 <!--END_SECTION:waka-->
